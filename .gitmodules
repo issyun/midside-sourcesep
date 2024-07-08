@@ -1,0 +1,3 @@
+[submodule "Band-Split-RNN"]
+	path = Band-Split-RNN
+	url = https://github.com/issyun/Band-Split-RNN.git
