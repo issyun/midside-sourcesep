@@ -1,0 +1,13 @@
+file_dir: data/musdb18hq
+txt_dir: data/fragments
+txt_path: null
+target: vocals
+preload_dataset: True
+is_mono: False
+is_training: True
+sr: 44100
+silent_prob: 0.01
+mix_prob: 0
+mix_tgt_too: False
+side_stereo: False
+
